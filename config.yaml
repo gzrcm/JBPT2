@@ -1,5 +1,5 @@
-baseURL: https://examplesite.com
-title: Known Unknowns
+baseURL: https://jbpt.co.uk
+title: JBPT
 theme: somrat
 paginate: '6'
 summaryLength: '10'
@@ -16,7 +16,7 @@ params:
   author: somrat
   description: This is meta description
   favicon: images/favicon1.png
-  logo_dark: images/logo-dark.png
+  logo_dark: images/logo-dark.jpg
   logo_light: images/logo.png
   logo_width: 150px
   plugins:
@@ -60,11 +60,9 @@ Languages:
           url: call-to-action
           weight: 2
         - name: INSTAGRAM
-          pre: '#'
           url: "https://www.instagram.com/j_baisley_/"
           weight: 3
-        - name: OFFERS
-          pre: '#'
+        - name: LINKTREE
           url: "https://linktr.ee/JB.PT.Coach"
           weight: 3
     weight: 1
