@@ -57,4 +57,4 @@ I have been where you are so With my tailored programmes, we don't just focus on
 
 You're not just signing up for a workout plan, or someone counting your reps for an hour in the gym, you’re committing to a transformative experience that will reshape your body and revolutionise your mindset. I understand that every individual is unique, which is why our approach is personalised to suit your specific needs, preferences, and lifestyle.
 
-Sounds great right? Its time commit to your own epic fitness with a coach who knows your struggles. Together, we'll work towards a healthier, more vibrant you, celebrating every milestone along the way.
+Sounds great right? It's time commit to your own epic fitness with a coach who knows your struggles. Together, we'll work towards a healthier, more vibrant you, celebrating every milestone along the way.

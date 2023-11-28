@@ -3,7 +3,7 @@ bg_image:
 button:
   enable: true
   label: COMMIT NOW
-  link: mailto:JB@jb-pt.co.uk?subject=Let's%Go!
+  link: mailto:JB@jb-pt.co.uk?subject=Let's%20Go!
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
