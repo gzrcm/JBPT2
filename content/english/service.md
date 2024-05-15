@@ -15,8 +15,7 @@ service_list:
     you the necessary energy you need but cut out the body fat.
 - image: images/icons/dumbell.png
   name: EXERCISE
-  popup: We will build an exercise plan that maximizes your time and goals with achieve
-    milestones and progress check-ins that allow you to get and stay fit.
+  popup: We will build an exercise plan that maximizes your time with goals and achievable milestones in regular progress check-ins to demonstrate impact and build motivation that allows you to get and stay fit.
 - image: images/icons/brain.png
   name: MINDSET
   popup: Finally we build an invincible mindset that grows with the other pillars
